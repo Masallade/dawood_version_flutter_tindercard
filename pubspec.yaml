@@ -5,7 +5,7 @@ author: Dawood <fld131378@gmail.com> <dawood.personal.pk@gmail.com>
 homepage: https://github.com/Masallade/flutter_tindercard
 
 environment:
-  sdk: ">=3.3.4 <4.0.0"
+  sdk: ">=2.19.0 <4.0.0"
 
 dependencies:
   flutter:
